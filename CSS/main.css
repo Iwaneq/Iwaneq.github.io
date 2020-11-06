@@ -1,0 +1,32 @@
+#title{
+	font-weight:900;
+	height:500px;
+	display:block;
+}
+body{
+	font-size:35px;
+	background-color:rgb(141, 219, 252);
+}
+div{
+	padding-left:10px;
+	padding-right:10px;
+	box-sizing:border-box;
+	display:inline-block;
+	margin-bottom:25px;
+}
+p{
+	text-align:justify;
+	display:block;
+}
+img{
+	border:5px solid black;
+}
+.center{
+	text-align:center;
+}
+.opis{
+	font-style:italic;
+	font-weight:900;
+	font-size:20px;
+	color:#4F6D7A;
+}
